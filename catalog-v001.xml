@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
     <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
-        <uri id="Automatically generated entry, Timestamp=1524268408414" name="http://www.semanticweb.org/zr/ontologies/2018/3/untitled-ontology-10" uri="bokusave.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1524268408414" name="http://www.semanticweb.org/zr/ontologies/2018/3/untitled-ontology-39" uri="test/cardina.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1524268408414" name="shadowed:http://www.semanticweb.org/zr/ontologies/2018/3/untitled-ontology-10" uri="v2/bnh_onto2.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1524270537354" name="http://www.semanticweb.org/zr/ontologies/2018/3/untitled-ontology-10" uri="bokusave.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1524270537354" name="http://www.semanticweb.org/zr/ontologies/2018/3/untitled-ontology-39" uri="test/cardina.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1524270537354" name="shadowed:http://www.semanticweb.org/zr/ontologies/2018/3/untitled-ontology-10" uri="v2/bnh_onto2.owl"/>
     </group>
 </catalog>

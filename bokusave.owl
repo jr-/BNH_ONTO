@@ -511,6 +511,21 @@
     <!-- http://www.semanticweb.org/zr/ontologies/2018/3/untitled-ontology-10#Civil -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/zr/ontologies/2018/3/untitled-ontology-10#Civil">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.semanticweb.org/zr/ontologies/2018/3/untitled-ontology-10#Estudante"/>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.semanticweb.org/zr/ontologies/2018/3/untitled-ontology-10#Heroi"/>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.semanticweb.org/zr/ontologies/2018/3/untitled-ontology-10#Vilao"/>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/zr/ontologies/2018/3/untitled-ontology-10#Pessoa"/>
     </owl:Class>
     
@@ -909,6 +924,14 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/zr/ontologies/2018/3/untitled-ontology-10#C.3G">
         <rdf:type rdf:resource="http://www.semanticweb.org/zr/ontologies/2018/3/untitled-ontology-10#Turma"/>
         <pertence_ao_departamento rdf:resource="http://www.semanticweb.org/zr/ontologies/2018/3/untitled-ontology-10#Dep_Suporte"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/zr/ontologies/2018/3/untitled-ontology-10#Civil1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/zr/ontologies/2018/3/untitled-ontology-10#Civil1">
+        <rdf:type rdf:resource="http://www.semanticweb.org/zr/ontologies/2018/3/untitled-ontology-10#Pessoa"/>
     </owl:NamedIndividual>
     
 
